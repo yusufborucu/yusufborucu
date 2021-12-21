@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
-<h3 align="center">A backend developer.</h3>
+<h3 align="center">A full stack developer.</h3>
 
 - 📝 I regularly write articles on [https://kodumunblogu.net/auth/yusuf-borucu-4](https://kodumunblogu.net/auth/yusuf-borucu-4)
 
